@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=megaton920)](https://solved.ac/megaton920)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=megaton920)](https://solved.ac/profile/megaton920)
 
 <!--
 **megaton920/megaton920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
